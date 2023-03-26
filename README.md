@@ -1,14 +1,9 @@
 # W7Fix
 
-This is a version of the Week 7 release of Funkin' that aims to improve the game while keeping the original feel.
+literally a normal fnf engine, based off on Burgerballs' Week 7 engine
 
-This "original feel" means that the HUD remains unaltered without the usage of scripts, and I aim to only make changes to the core gameplay as optional settings instead of actual parts of the game itself.
-
-And maybe silly stuff like this!!!
-
-https://user-images.githubusercontent.com/107233412/216823593-ca375483-2b2f-472d-b86c-485c50880f17.mp4
-
-Anyways let the original description commence!
+COME ON GITHUB LET ME COMPILE SHIT WSUHGHGUIDHJ
+anyway fucking readme on the bottom
 
 # Friday Night Funkin
 
