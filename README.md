@@ -1,4 +1,4 @@
-# W7Fix
+# Funkin' Strucker
 
 literally a normal fnf engine, based off on Burgerballs' Week 7 engine
 
